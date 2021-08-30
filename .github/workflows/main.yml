@@ -18,7 +18,7 @@ jobs:
           # Options
           user: PSSF23
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories
           config_display: large
           config_timezone: America/New_York
           repositories_affiliations: owner, collaborator
